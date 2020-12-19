@@ -16,6 +16,7 @@
         <!-- Scripts -->
 
     </head>
+
     <body class="font-sans antialiased">
         <div id="app" class="min-h-screen bg-gray-100">
             <navigation-bar></navigation-bar>
