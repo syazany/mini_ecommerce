@@ -6,7 +6,7 @@ import {routes} from './routes';
 import VueRouter from "vue-router";
 import Vuex from 'vuex';
 
-import Vue from 'vue/dist/vue';
+window.Vue = require('vue');
 import products from "./vuex-modules/products";
 import cart from "./vuex-modules/cart";
 import notification from "./vuex-modules/notification";
