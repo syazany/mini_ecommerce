@@ -22721,10 +22721,9 @@ var render = function() {
             [
               _c("img", {
                 attrs: {
-                  src:
-                    "https://blog.supplycart.my/wp-content/uploads/2019/03/Supplycart_Digital-logomark-w-workmark-PlainLogo_RGB.png",
-                  height: "100",
-                  width: "200"
+                  src: "https://syazany.com/storage/simple_ecom.png",
+                  height: "50",
+                  width: "50"
                 }
               })
             ]
@@ -55009,8 +55008,8 @@ var actions = {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\xampp\htdocs\interview-case-study\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! C:\xampp\htdocs\interview-case-study\resources\css\app.css */"./resources/css/app.css");
+__webpack_require__(/*! C:\xampp\htdocs\mini_ecommerce\resources\js\app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! C:\xampp\htdocs\mini_ecommerce\resources\css\app.css */"./resources/css/app.css");
 
 
 /***/ })

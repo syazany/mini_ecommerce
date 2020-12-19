@@ -8,8 +8,8 @@
                     <div @click="$router.push({name : 'products'})"
                          class="flex-shrink-0 flex items-center cursor-pointer">
                         <img
-                            src="https://blog.supplycart.my/wp-content/uploads/2019/03/Supplycart_Digital-logomark-w-workmark-PlainLogo_RGB.png"
-                            height="100" width="200"/>
+                            src="https://syazany.com/storage/simple_ecom.png"
+                            height="50" width="50"/>
                     </div>
 
                     <!-- Navigation Links -->

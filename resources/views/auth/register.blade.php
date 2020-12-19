@@ -3,8 +3,8 @@
         <x-slot name="logo">
             <a href="/">
                 <img
-                    src="https://blog.supplycart.my/wp-content/uploads/2019/03/Supplycart_Digital-logomark-w-workmark-PlainLogo_RGB.png"
-                    height="400" width="200"/>
+                    src="https://syazany.com/storage/simple_ecom.png"
+                    height="200" width="100"/>
             </a>
         </x-slot>
 
